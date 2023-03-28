@@ -10,9 +10,7 @@
   <img alt="mona-whisper"  width="50" src="https://github.githubassets.com/images/mona-whisper.gif"/>
 </div>
 
-[TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=youking-lib&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
-
-[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=youking-lib&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117
+[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=youking-lib&show_icons=true&theme=dark&locale=en&count_private=true&hide_border=true&bg_color=0D1117
 
 [GITHUB_STREAK]: https://github-readme-streak-stats.herokuapp.com/?user=youking-lib&theme=dark&hide_border=true&background=0D1117
 
