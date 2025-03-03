@@ -2,8 +2,6 @@
 
 ![GitHub Stats][GITHUB_STATS]
 
-![GitHub Streak][GITHUB_STREAK]
-
 ![Profile Views][PROFILE_VIEWS]
 
 <div align="right">
